@@ -1,5 +1,5 @@
 # Zachs Jokers
-# THIS MOD WAS MADE FOR AN OLDER VERSION OF SMODS SO EXPECT ISSUES ON LATEST VERSION
+# THIS MOD WAS MADE FOR AN OLDER VERSION OF SMODS SO EXPECT ISSUES ON THE LATEST VERSION
 
 A custom mod for *Balatro* that adds a collection of original Jokers with unique mechanics.  
 Art credit for Steak: [mooshe10]
@@ -14,15 +14,15 @@ Enabled by default unless noted:
 
 - **Steak** – High X mult, decays over rounds similar to the other food jokers  
 - **Less is More** – Smaller hand size, higher mult  
-- **Luckier Cards** – Makes lucky cards have a change to provide X mult when scored  
+- **Luckier Cards** – Makes lucky cards have a chance to provide X mult when scored  
 - **One Card Wizard** – Replays first card if hand scores as High Card  
 - **Archaeologist** – Converts Stone cards to Rank cards with editions  
 - **Gamble** – Risk-based multiplier per card  
 - **Dog Tag** – Create Spectral cards after winning with a set number of hands  
-- **Game Show** – Chance to gain a Wheel of Fortune  
-- **Empty Handed** – Bonus chips, penalized for hand size  
+- **Game Show** – Chance to gain a Wheel of Fortune at the start of blind  
+- **Empty Handed** – Bonus chips, reduces for number of scoring cards  
 - **Call It** – Mult scaling joker similar to ride the bus  
-- **Overchip** – Rewards chips overflow with money  
+- **Overchip** – Rewards overshooting the blind with extra money  
 - **Three's a Crowd** – Destroys non-scoring cards in Three-of-a-Kind  
 - **Rubber Ducky** – Chance-based bonus chips and mult  
 - **CR45H** – Flattens chip values, adds flat bonus  
@@ -33,8 +33,8 @@ Enabled by default unless noted:
 
 ## Experimental / Disabled by Default
 
-- **Chaos** – Shuffles Jokers, adds chips/mult (unstable)  
-- **Jimbo, Car Accident, Loan Shark** – Placeholder or untested
+- **Chaos** – Shuffles Jokers, adds X Mult (unstable)  
+- **Jimbo, Car Accident, Loan Shark** – Placeholder/untested/obvious broken state
 
 ## Notes
 
